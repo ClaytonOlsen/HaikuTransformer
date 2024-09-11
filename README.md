@@ -1,6 +1,6 @@
 # HaikuTransformer
 
-Built using just the decoder part of the model described in <a href=”[Attention is All You Need](https://arxiv.org/abs/1706.03762)”></a>. The model structure is shown below
+Built using just the decoder part of the model described in <a href=”[Attention is All You Need](https://arxiv.org/abs/1706.03762)”>. The model structure is shown below
 
 ![image](https://github.com/user-attachments/assets/9256297e-a7bb-4d17-b543-31b876a5a1e0)
 
