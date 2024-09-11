@@ -12,7 +12,7 @@ The dataset used was statworx/haiku from huggingface. The dataset consists of mo
 
 The results of the generator are found in testContexts.ipynb and the model is found in BigramLanguageModelTrain.py.
 
-<br>
+<hr style="border: none; border-top: 2px solid black; width: 100%;">
 
 pytorch version 2.1.2
 
