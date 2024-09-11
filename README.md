@@ -2,7 +2,8 @@
 
 Built using just the decoder part of the model described in <a href="https://arxiv.org/abs/1706.03762">Attention is All You Need</a>. The model structure is shown below
 
-![image](https://github.com/user-attachments/assets/d4200b1d-87e4-4bfb-95e3-40a37fdf13fc)
+![image](https://github.com/user-attachments/assets/dd3e592c-b6a8-4c65-8846-ca3cb835c461)
+
 
 Goal: Make a text generator that can maintain some of the structure in the dataset and formulate real words.
 
