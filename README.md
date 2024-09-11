@@ -8,6 +8,5 @@ Goal: Make a text generator that can maintain some of the structure in the datas
 
 The dataset used was statworx/haiku from huggingface. The dataset consists of mostly haikus in the 5-7-5 syllable structure, but there are some unstructured 3 line poems in the mix.
 
-
-
+The results of the generator are found in testContexts.ipynb and the model is found in BigramLanguageModelTrain.py.
 
