@@ -1,8 +1,8 @@
 # HaikuTransformer
 
-Built using just the decoder part of the model described in <a href="[https://github.com/user-attachments/assets/9256297e-a7bb-4d17-b543-31b876a5a1e0](https://github.com/user-attachments/assets/9256297e-a7bb-4d17-b543-31b876a5a1e0)">Attention is All You Need</a>. The model structure is shown below
+Built using just the decoder part of the model described in <a href="https://arxiv.org/abs/1706.03762">Attention is All You Need</a>. The model structure is shown below
 
-![image]()
+![image](https://github.com/user-attachments/assets/d4200b1d-87e4-4bfb-95e3-40a37fdf13fc)
 
 Goal: Make a text generator that can maintain some of the structure in the dataset and formulate real words.
 
