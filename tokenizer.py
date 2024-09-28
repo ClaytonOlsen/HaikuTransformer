@@ -67,6 +67,8 @@ class RegExpTokenizer():
             print("tokens length:", len(tokens))
             print("ids length:", len(ids))
             print(f"compression ratio: {len(ids) / len(tokens):.2f}X")
+        
+        return tokens
 
     def decode(self, tokens):
         part_bytes = []
