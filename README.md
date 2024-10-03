@@ -14,8 +14,99 @@ pytorch version 2.1.2
 
 <hr style="border: none; border-top: 2px solid black; width: 100%;">
 
-The first run through was using a very simple tokenization strategy, simply translating the different characters from the dataset into number. These files are specified with the suffix SimpleEncode. This model 
+The first run through was using a very simple tokenization strategy, simply translating the different characters from the dataset into number. These files are specified with the suffix SimpleEncode. I have additionally tested using a Regex tokenizer for splitting words using apostrophes, hyphens, etc. and created combined tokens for common patters. Below I kept track of the differences.
 
 <hr style="border: none; border-top: 2px solid black; width: 100%;">
 
+
+### Text Output
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Three Boxes Next to Each Other</title>
+    <style>
+        /* Styling the container to display boxes side by side */
+        .container {
+            display: flex;
+            justify-content: space-around; /* Spacing between boxes */
+            padding: 20px;
+        }
+
+        /* Styling for each box */
+        .box {
+            background-color: #f0f0f0;
+            padding: 20px;
+            width: 30%;
+            text-align: center;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+        }
+
+        /* Styling for each title */
+        .box h3 {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="box">
+            <h3>Simple Encoding for Tokenizer</h3>
+            <p>Is so setting faith? / U'll always happy I'll pron. / You and eat on daw.
+Getting the one, Yuk. / Everything I'm short is. / Everything good to.
+No wig awful, R. / So much I remember. / If you pout to ship.
+Memes about my heart. / Bad is even no gas? / Do nothing somebody.
+Sunday shiny drop. / Parting hards of the wisel? / Even the boys like.
+Shit was the pierced. / Off, Luck ugly, I remind. / It is enjoy your door.
+Beautiful rearing. / Stop never ending running. / Blockstors, from itself.
+A child's time hours. / The snowfall ripping heavy up. / And fillend messions.
+Oh, babe, I'm home. / Here foreading why you're Not? / The folded, let's busy.
+Then I wope I looking. / Today and got to win this. / Til I'll really wish.</p>
+        </div>
+        <div class="box">
+            <h3>Regex Tokenizer with 1000 character</h3>
+            <p>The world is unright. / Haiku therapy. / Taste of anama.
+Mirror, envy dewgs. / Where ait spells lied?
+My dog kayoffs to. / Those who am I still alive. / An accidental legs.
+Near of refuseddit. / The water dust. / The lingering sun.
+Rivering heat. / My air turns clapped. / On the cashiernewbe.
+A dark chains collect. / On Christmas standard. / Hurry.
+Bult of Aard. / Drimy hand on my face.
+Sweet wintery. / Evide. / My heart boxes, catches a mxsport.
+Another stood. / In Towiti if noticer. / Looks wrapped at work.
+The words are shower. / Early flated the sky. / All that will lack of life.</p>
+        </div>
+        <div class="box">
+            <h3>Regex Tokenizer with 5000 character</h3>
+            <p>This is the content of the third box. You can add more text here.</p>
+        </div>
+    </div>
+
+</body>
+
+
+
+
+
+
+
+Is so setting faith? / U'll always happy I'll pron. / You and eat on daw.
+Getting the one, Yuk. / Everything I'm short is. / Everything good to.
+No wig awful, R. / So much I remember. / If you pout to ship.
+Memes about my heart. / Bad is even no gas? / Do nothing somebody.
+Sunday shiny drop. / Parting hards of the wisel? / Even the boys like.
+Shit was the pierced. / Off, Luck ugly, I remind. / It is enjoy your door.
+Beautiful rearing. / Stop never ending running. / Blockstors, from itself.
+A child's time hours. / The snowfall ripping heavy up. / And fillend messions.
+Oh, babe, I'm home. / Here foreading why you're Not? / The folded, let's busy.
+Then I wope I looking. / Today and got to win this. / Til I'll really wish.
+When Wentten Tausts? / Violens when I just remember. / And selent girls out.
+Even wow long you. / Has a handweore climi, right? / Through, eat employes.
+Forhing him fup when. / You it in pints mround on. / Your friends are just down.
+I dunno thank you. / Life or world, drive me, I'm t. / Get surprised and spei.
+Just love my haircut. / Comes up by my death nine's a. / Friend jeans appears shore.
+The shit stabbles short. / Wildrupts the come to hideague. / As caught, purpose.
+Thus to postpain up. / Half by h mid motel right. / I was finally.
+From til town, record. / The reacher a dollrine hawk. / The Liflip of rain.
 
