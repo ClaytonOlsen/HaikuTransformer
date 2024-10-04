@@ -54,15 +54,8 @@ The first run through was using a very simple tokenization strategy, simply tran
         <div class="box">
             <h3>Simple Encoding for Tokenizer</h3>
             <p>Is so setting faith? / U'll always happy I'll pron. / You and eat on daw.
-Getting the one, Yuk. / Everything I'm short is. / Everything good to.
-No wig awful, R. / So much I remember. / If you pout to ship.
-Memes about my heart. / Bad is even no gas? / Do nothing somebody.
-Sunday shiny drop. / Parting hards of the wisel? / Even the boys like.
-Shit was the pierced. / Off, Luck ugly, I remind. / It is enjoy your door.
-Beautiful rearing. / Stop never ending running. / Blockstors, from itself.
-A child's time hours. / The snowfall ripping heavy up. / And fillend messions.
-Oh, babe, I'm home. / Here foreading why you're Not? / The folded, let's busy.
-Then I wope I looking. / Today and got to win this. / Til I'll really wish.</p>
+'\nWill surprised?\nSnowfall. / The sclimber of wine. / Only spectaculates.\nBlinding. / The dunes sheds. / Calhed roses.\nOne last gum. / The begin speaks. / Darkness.\nA long on threads. / One book only mango. / The dog.\nHalf pilleting. / Of thoughts leave. / Sinsing the quilt.\n[Eliter] / Feeling my elophone home. / Wilding persons.\nPale thunder. / The pie. / Of wet patching.\nSoft chargazes. / The twilight catch comes kiss. / Half, the sunfire shine.\nOutdoor real. / Understanding. / The Ass pints of.\nWaiting forgettrail. / I rar into their scent. / A retiremember.\nRemember Sharp notes. / Returned the ocean. / A rising down.\nJust be overcast. / Another glare separated. / Guard\'s shadow.\nAt the tea. / Of the ragged hospital day. / Open at the back off.\nHeadstove. / The flame of my trip. / Opens in the echos.\nMoon shadow. / The swishing pens. / Of all space.\nEvening day. / A bottle dreaming on. / Won\'t letter down?\nWhiteTre. / Swrinking tide. / In the sunset.\nCrowd war dish. / On a snaple prayer. / Twisters.\nCoffee mantisming shop. / The way goodwill roundness. / I didn\'t look.\nFirst day. / The softed blowing trouble. / The river heads.\nThe meterafish. / In the passage. / Two thick reminder.\nDeep in the hunt. / The ech other granted town. / Of word.\nEmotion Tree. / I don\'t kis. / Who wores it peppers.
+</p>
         </div>
         <div class="box">
             <h3>Regex Tokenizer with 1000 character</h3>
