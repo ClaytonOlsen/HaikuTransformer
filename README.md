@@ -58,21 +58,13 @@ The first run through was using a very simple tokenization strategy, simply tran
 </p>
         </div>
         <div class="box">
-            <h3>Regex Tokenizer with 1000 character</h3>
-            <p>The world is unright. / Haiku therapy. / Taste of anama.
-Mirror, envy dewgs. / Where ait spells lied?
-My dog kayoffs to. / Those who am I still alive. / An accidental legs.
-Near of refuseddit. / The water dust. / The lingering sun.
-Rivering heat. / My air turns clapped. / On the cashiernewbe.
-A dark chains collect. / On Christmas standard. / Hurry.
-Bult of Aard. / Drimy hand on my face.
-Sweet wintery. / Evide. / My heart boxes, catches a mxsport.
-Another stood. / In Towiti if noticer. / Looks wrapped at work.
-The words are shower. / Early flated the sky. / All that will lack of life.</p>
+            <h3>Regex Tokenizer with 1000 character  85% words</h3>
+            <p>Macross America. / Has a party. / Sandits, Earrengthe.\nToo many seeing stuff. / They flopped for the second trip. / Others singlute.\nBare borne. / Caloup, pop and so flowers and. / His pains where will find it with all me.\nHer eyes are online. / Swing ash eye, fake, fire. / Bey, my sure does it. / Respect for you.\nWant to feel among? / Commit, just like made it.\nYou gotta cry. / Leave me like your fan fight enough from. / I trusted me like I miss able. / I'm saying received.\nGot a long showing me. / Signs of love life. / So much music is bying.\nOK, don't care, yeah, God? / If only I could tim.\nTurnal me while me. / Murdered the awesome, I. / Weard your time guys.\nI'm about to stay. / My I'm spending hate. / More than and I'm not.\nThe worst till Jin. / Me without a place, but you is. / Mitch on Tuesday, my. / Show me you bowel.\nI fucking krake try. / You thank you, someone, I'm. / So exhausted by tonight.\nJoe's making A. / Shopping all night faking. / I should be writing. / Like a heart Christget? / During sex, stress.\nI can for fools back, u. / Eat healed. / The lawn present.\nIt's crazy guidance. / In verse of class, lol.\nI swear my joke, kid's body. / Also, when it's. / Time to take a shit.\nHey, you think absolute he's. / Dang to see Obama.\nI don't er. / Thankful, oshat I miss A. / Burber, Tinube and my brain. / Brighter.\nSleeping next to tell me. / Is came out of heavy. / Bringming without Cedar fuck.\nI don't remember. / Arfired, e dropping.\nI'll always act. / Is beat the best. / Sleep is excarantu, rather shit me. / That would I knew this thing to. / Give t wish tonight and. / I'm so lonely.\nMy face is wonderful day. / And knows I'm pretty much. / This for Christmas.\nBeing bitches are wrong for the. / Best feelings, so damn."</p>
         </div>
         <div class="box">
-            <h3>Regex Tokenizer with 5000 character</h3>
-            <p>This is the content of the third box. You can add more text here.</p>
+            <h3>Regex Tokenizer with 3000 character 86% words</h3>
+            <p>"I love her feet, yeat wave.\nMacross America. / Has a party. / Sandits, Earrengthe.\nToo many seeing stuff. / They flopped for the second trip. / Others singlute.\nBare borne. / Caloup, pop and so flowers and. / His pains where will find it with all me.\nHer eyes are online. / Swing ash eye, fake, fire. / Bey, my sure does it. / Respect for you.\nWant to feel among? / Commit, just like made it.\nYou gotta cry. / Leave me like your fan fight enough from. / I trusted me like I miss able. / I'm saying received.\nGot a long showing me. / Signs of love life. / So much music is bying.\nOK, don't care, yeah, God? / If only I could tim.\nTurnal me while me. / Murdered the awesome, I. / Weard your time guys.\nI'm about to stay. / My I'm spending hate. / More than and I'm not.\nThe worst till Jin. / Me without a place, but you is. / Mitch on Tuesday, my. / Show me you bowel.\nI fucking krake try. / You thank you, someone, I'm. / So exhausted by tonight.\nJoe's making A. / Shopping all night faking. / I should be writing. / Like a heart Christget? / During sex, stress.\nI can for fools back, u. / Eat healed. / The lawn present.\nIt's crazy guidance. / In verse of class, lol.\nI swear my joke, kid's body. / Also, when it's. / Time to take a shit.\nHey, you think absolute he's. / Dang to see Obama.\nI don't er. / Thankful, oshat I miss A. / Burber, Tinube and my brain. / Brighter.\nSleeping next to tell me. / Is came out of heavy. / Bringming without Cedar fuck.\nI don't remember. / Arfired, e dropping.\nI'll always act. / Is beat the best. / Sleep is excarantu, rather shit me. / That would I knew this thing to. / Give t wish tonight and. / I'm so lonely.\nMy face is wonderful day. / And knows I'm pretty much. / This for Christmas.\nBeing bitches are wrong for the. / Best feelings, so damn.\nLuice and all the bam. / About your revice. / From an open boil.\nI'm plore and Mark pants. / Now is therapy failried. / Makes me feel my dad bitch.\nSorry for food. / Playing again, since. / I can prote a little trump. / Can't take it it.\nSurprise swer on account. / To make you fixes.\nEven if you don't know. / How people acick? / Call okay, in my ham? / If someone can die."
+</p>
         </div>
     </div>
 
