@@ -32,7 +32,7 @@ The first run through was using a very simple tokenization strategy, simply tran
             justify-content: space-between;
         }
 
-        .box {
+.box {
             border: 1px solid black;
             padding: 20px;
             margin: 10px;
