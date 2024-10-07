@@ -20,6 +20,7 @@ The first run through was using a very simple tokenization strategy, simply tran
 
 
 ### Text Output
+</html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -57,6 +58,7 @@ The first run through was using a very simple tokenization strategy, simply tran
         </div>
     </div>
 </body>
+</html>
 
 
 
