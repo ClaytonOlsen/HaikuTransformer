@@ -25,7 +25,7 @@ The first run through was using a very simple tokenization strategy, simply tran
 <body>
     <div class="container">
         <div class="box">
-            <h2>Title 1</h2>
+            <h3>Simple Tokenizer</h2>
             <p>Is so setting faith? / U'll always happy I'll pron. / You and eat on daw.'<br>
                 Will surprised?\nSnowfall. / The sclimber of wine. / Only spectaculates.<br>
                 Blinding. / The dunes sheds. / Calhed roses.<br>
@@ -39,7 +39,7 @@ The first run through was using a very simple tokenization strategy, simply tran
                 </p>
         </div>
         <div class="box">
-            <h2>Title 2</h2>
+            <h3>Regex Tokenizer with 1000 token size</h2>
             <p>The world is unright. / Haiku therapy. / Taste of anama.<br>
                 Mirror, envy dewgs. / Where ait spells lied?<br>
                 My dog kayoffs to. / Those who am I still alive. / An accidental legs.<br>
@@ -52,7 +52,7 @@ The first run through was using a very simple tokenization strategy, simply tran
                 The words are shower. / Early flated the sky. / All that will lack of life.</p>
         </div>
         <div class="box">
-            <h2>Title 3</h2>
+            <h3>Regex Tokenizer with 3000 token size</h2>
             <p>Is so setting faith? / U'll always happy I'll pron. / You and eat on daw.<br>
                 Getting the one, Yuk. / Everything I'm short is. / Everything good to.<br>
                 No wig awful, R. / So much I remember. / If you pout to ship.<br>
