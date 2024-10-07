@@ -68,6 +68,15 @@ The first run through was using a very simple tokenization strategy, simply tran
     </div>
 </body>
 
+## Syllable Counts
+
+Simple Encoding Tokenizer             | Regex Tokenizer with 1000 Length             |  Regex Tokenizer with 3000 Length
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="HaikuTransformer/Images/SimpleEncodeSyllables.png" width="325" />  | <img src="HaikuTransformer/Images/Regex1000TokenSyllables.png" width="325" />  |  <img src="Regex3000TokenSyllables.png" width="325" />
+
+
+
+
 
 
 
