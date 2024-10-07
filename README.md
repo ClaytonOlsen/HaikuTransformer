@@ -30,16 +30,16 @@ The first run through was using a very simple tokenization strategy, simply tran
         </div>
         <div class="box">
             <h2>Title 2</h2>
-            <p>The world is unright. / Haiku therapy. / Taste of anama.
-Mirror, envy dewgs. / Where ait spells lied?
-My dog kayoffs to. / Those who am I still alive. / An accidental legs.
-Near of refuseddit. / The water dust. / The lingering sun.
-Rivering heat. / My air turns clapped. / On the cashiernewbe.
-A dark chains collect. / On Christmas standard. / Hurry.
-Bult of Aard. / Drimy hand on my face.
-Sweet wintery. / Evide. / My heart boxes, catches a mxsport.
-Another stood. / In Towiti if noticer. / Looks wrapped at work.
-The words are shower. / Early flated the sky. / All that will lack of life.</p>
+            <p>The world is unright. / Haiku therapy. / Taste of anama.<br>
+                Mirror, envy dewgs. / Where ait spells lied?<br>
+                My dog kayoffs to. / Those who am I still alive. / An accidental legs.<br>
+                Near of refuseddit. / The water dust. / The lingering sun.<br>
+                Rivering heat. / My air turns clapped. / On the cashiernewbe.<br>
+                A dark chains collect. / On Christmas standard. / Hurry.<br>
+                Bult of Aard. / Drimy hand on my face.<br>
+                Sweet wintery. / Evide. / My heart boxes, catches a mxsport.<br>
+                Another stood. / In Towiti if noticer. / Looks wrapped at work.<br>
+                The words are shower. / Early flated the sky. / All that will lack of life.</p>
         </div>
         <div class="box">
             <h2>Title 3</h2>
