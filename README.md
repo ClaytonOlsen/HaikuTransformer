@@ -26,121 +26,10 @@ The first run through was using a very simple tokenization strategy, simply tran
     <div class="container">
         <div class="box">
             <h2>Title 1</h2>
-            <p>This is the first paragraph of content in the box. You can have longer text, and it will wrap automatically within this box.</p>
-        </div>
-        <div class="box">
-            <h2>Title 2</h2>
-            <p>This is the second paragraph of content in another box. It will also wrap inside its own box with space between the other boxes.</p>
-        </div>
-        <div class="box">
-            <h2>Title 3</h2>
-            <p>This is the third paragraph of content. All three boxes should now be aligned horizontally with equal spacing and proper alignment.</p>
-        </div>
-    </div>
-</body>
-
-
-
-
-
-
-
-
-
-
-
-
--------------------------------
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Side by Side Text Boxes</title>
-    <style>
-        .container {
-            display: flex;
-            justify-content: space-between;
-        }
-
-        .box {
-            border: 1px solid black;
-            padding: 20px;
-            margin: 10px;
-            width: 30%;
-            text-align: center;
-        }
-
-        h2 {
-            margin-top: 0;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="box">
-            <h2>Title 1</h2>
             <p>Is so setting faith? / U'll always happy I'll pron. / You and eat on daw.'\nWill surprised?\nSnowfall. / The sclimber of wine. / Only spectaculates.\nBlinding. / The dunes sheds. / Calhed roses.\nOne last gum. / The begin speaks. / Darkness.\nA long on threads. / One book only mango. / The dog.\nHalf pilleting. / Of thoughts leave. / Sinsing the quilt.\n[Eliter] / Feeling my elophone home. / Wilding persons.\nPale thunder. / The pie. / Of wet patching.\nSoft chargazes. / The twilight catch comes kiss. / Half, the sunfire shine.\nOutdoor real. / Understanding. / The Ass pints of.\nWaiting forgettrail. / I rar into their scent. / A retiremember.\nRemember Sharp notes. / Returned the ocean. / A rising down.\nJust be overcast. / Another glare separated. / Guard\'s shadow.\nAt the tea. / Of the ragged hospital day. / Open at the back off.\nHeadstove. / The flame of my trip. / Opens in the echos.\nMoon shadow. / The swishing pens. / Of all space.\nEvening day. / A bottle dreaming on. / Won\'t letter down?\nWhiteTre. / Swrinking tide. / In the sunset.\nCrowd war dish. / On a snaple prayer. / Twisters.\nCoffee mantisming shop. / The way goodwill roundness. / I didn\'t look.\nFirst day. / The softed blowing trouble. / The river heads.\nThe meterafish. / In the passage. / Two thick reminder.\nDeep in the hunt. / The ech other granted town. / Of word.\nEmotion Tree. / I don\'t kis. / Who wores it peppers.</p>
         </div>
         <div class="box">
             <h2>Title 2</h2>
-            <p>This is the content of the second box.</p>
-        </div>
-        <div class="box">
-            <h2>Title 3</h2>
-            <p>This is the content of the third box.</p>
-        </div>
-    </div>
-</body>
-</html>
-
-
-
-
-
-
-
-
-
-
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Three Boxes Next to Each Other</title>
-    <style>
-        /* Styling the container to display boxes side by side */
-        .container {
-            display: flex;
-            justify-content: space-around; /* Spacing between boxes */
-            padding: 20px;
-        }
-
-        /* Styling for each box */
-        .box {
-            background-color: #f0f0f0;
-            padding: 20px;
-            width: 30%;
-            text-align: center;
-            border: 1px solid #ccc;
-            border-radius: 10px;
-        }
-
-        /* Styling for each title */
-        .box h3 {
-            margin-bottom: 10px;
-        }
-    </style>
-</head>
-<body>
-
-<div class="container">
-        <div class="box">
-            <h3>Simple Encoding for Tokenizer</h3>
-            <p>
-</p>
-        </div>
-        <div class="box">
-            <h3>Regex Tokenizer with 1000 character</h3>
             <p>The world is unright. / Haiku therapy. / Taste of anama.
 Mirror, envy dewgs. / Where ait spells lied?
 My dog kayoffs to. / Those who am I still alive. / An accidental legs.
@@ -153,15 +42,8 @@ Another stood. / In Towiti if noticer. / Looks wrapped at work.
 The words are shower. / Early flated the sky. / All that will lack of life.</p>
         </div>
         <div class="box">
-            <h3>Regex Tokenizer with 5000 character</h3>
-            <p>This is the content of the third box. You can add more text here.</p>
-        </div>
-    </div>
-
-</body>
-
-
-Is so setting faith? / U'll always happy I'll pron. / You and eat on daw.
+            <h2>Title 3</h2>
+            <p>Is so setting faith? / U'll always happy I'll pron. / You and eat on daw.
 Getting the one, Yuk. / Everything I'm short is. / Everything good to.
 No wig awful, R. / So much I remember. / If you pout to ship.
 Memes about my heart. / Bad is even no gas? / Do nothing somebody.
@@ -178,5 +60,13 @@ I dunno thank you. / Life or world, drive me, I'm t. / Get surprised and spei.
 Just love my haircut. / Comes up by my death nine's a. / Friend jeans appears shore.
 The shit stabbles short. / Wildrupts the come to hideague. / As caught, purpose.
 Thus to postpain up. / Half by h mid motel right. / I was finally.
-From til town, record. / The reacher a dollrine hawk. / The Liflip of rain.
+From til town, record. / The reacher a dollrine hawk. / The Liflip of rain.</p>
+        </div>
+    </div>
+</body>
+
+
+
+
+
 
