@@ -50,7 +50,7 @@ The first run through was using a very simple tokenization strategy, simply tran
 </head>
 <body>
 
-    <div class="container">
+<div class="container">
         <div class="box">
             <h3>Simple Encoding for Tokenizer</h3>
             <p>Is so setting faith? / U'll always happy I'll pron. / You and eat on daw.
@@ -77,11 +77,6 @@ The words are shower. / Early flated the sky. / All that will lack of life.</p>
     </div>
 
 </body>
-
-
-
-
-
 
 
 Is so setting faith? / U'll always happy I'll pron. / You and eat on daw.
