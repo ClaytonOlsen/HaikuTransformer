@@ -20,27 +20,7 @@ The first run through was using a very simple tokenization strategy, simply tran
 
 
 ### Text Output
-</html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Horizontal Paragraph Boxes</title>
-    <style>
-        .container {
-            display: flex;
-            justify-content: space-between;
-        }
 
-.box {
-            border: 1px solid black;
-            padding: 20px;
-            margin: 10px;
-            width: 30%; /* Adjust width so 3 boxes fit */
-            box-sizing: border-box; /* Ensures padding is included in width */
-            text-align: left; /* Align text to the left */
-        }
-    </style>
 </head>
 <body>
     <div class="container">
@@ -58,7 +38,6 @@ The first run through was using a very simple tokenization strategy, simply tran
         </div>
     </div>
 </body>
-</html>
 
 
 
