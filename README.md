@@ -24,6 +24,56 @@ The first run through was using a very simple tokenization strategy, simply tran
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horizontal Paragraph Boxes</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .box {
+            border: 1px solid black;
+            padding: 20px;
+            margin: 10px;
+            width: 30%; /* Adjust width so 3 boxes fit */
+            box-sizing: border-box; /* Ensures padding is included in width */
+            text-align: left; /* Align text to the left */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <h2>Title 1</h2>
+            <p>This is the first paragraph of content in the box. You can have longer text, and it will wrap automatically within this box.</p>
+        </div>
+        <div class="box">
+            <h2>Title 2</h2>
+            <p>This is the second paragraph of content in another box. It will also wrap inside its own box with space between the other boxes.</p>
+        </div>
+        <div class="box">
+            <h2>Title 3</h2>
+            <p>This is the third paragraph of content. All three boxes should now be aligned horizontally with equal spacing and proper alignment.</p>
+        </div>
+    </div>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Side by Side Text Boxes</title>
     <style>
         .container {
