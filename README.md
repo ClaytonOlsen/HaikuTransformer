@@ -68,11 +68,12 @@ The first run through was using a very simple tokenization strategy, simply tran
     </div>
 </body>
 
-## Syllable Counts
+## Word Count & Syllable Counts
 
 Simple Encoding Tokenizer             | Regex Tokenizer with 1000 Length             |  Regex Tokenizer with 3000 Length
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="Images/SimpleEncodeSyllables.png" width="325" />  | <img src="Images/Regex1000TokenSyllables.png" width="325" />  |  <img src="Images/Regex3000TokenSyllables.png" width="325" />
+Percentage of real words: 83.73%  | Percentage of real words: 85.81%   |  Percentage of real words: 86.18%
+<img src="Images/SimpleEncodeSyllables.png" width="400" />  | <img src="Images/Regex1000TokenSyllables.png" width="400" />  |  <img src="Images/Regex3000TokenSyllables.png" width="400" />
 
 
 
