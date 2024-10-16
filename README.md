@@ -76,6 +76,12 @@ Percentage of real words: 83.73%  | Percentage of real words: 85.81%   |  Percen
 <img src="Images/SimpleEncodeSyllables.png" width="400" />  | <img src="Images/Regex1000TokenSyllables.png" width="400" />  |  <img src="Images/Regex3000TokenSyllables.png" width="400" />
 
 
+##Conclusion
+While the current implementation of this LLM has shown levels of functionality and was able to maintain the structure with a high number of real words, butits performance is hindered by some limitations:
+
+Computational Resources: The model's effectiveness is significantly influenced by the computational resources available during training and inference. Access to more powerful hardware, including high-performance GPUs or TPUs, can lead to faster training times and improved model performance.
+
+Dataset Size and Quality: The quality and size of the training dataset play a crucial role in the model's learning capability. Larger and more diverse datasets enable the model to capture a broader range of language patterns and nuances, resulting in better generalization to real-world tasks.
 
 
 
