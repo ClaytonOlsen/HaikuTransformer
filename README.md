@@ -76,7 +76,7 @@ Percentage of real words: 83.73%  | Percentage of real words: 85.81%   |  Percen
 <img src="Images/SimpleEncodeSyllables.png" width="400" />  | <img src="Images/Regex1000TokenSyllables.png" width="400" />  |  <img src="Images/Regex3000TokenSyllables.png" width="400" />
 
 
-##Conclusion
+## Conclusion
 While the current implementation of this LLM has shown levels of functionality and was able to maintain the structure with a high number of real words, butits performance is hindered by some limitations:
 
 Computational Resources: The model's effectiveness is significantly influenced by the computational resources available during training and inference. Access to more powerful hardware, including high-performance GPUs or TPUs, can lead to faster training times and improved model performance.
